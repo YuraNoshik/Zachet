@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zachet</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Изменить</string>
+    <string name="add">Добавить</string>
+    <string-array name="spisok_items">
+
+    </string-array>
+
+</resources>
